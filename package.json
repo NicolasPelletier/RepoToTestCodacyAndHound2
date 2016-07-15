@@ -1,0 +1,23 @@
+{
+  "name": "repo_to_test_codacy_and_hound2",
+  "version": "1.0.0",
+  "description": "Whatever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasPelletier/RepoToTestCodacyAndHound2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasPelletier/RepoToTestCodacyAndHound2/issues"
+  },
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-google": "^0.6.0"
+  },
+  "homepage": "https://github.com/NicolasPelletier/RepoToTestCodacyAndHound2#readme"
+}
