@@ -1,6 +1,6 @@
 
 module.exports = {
-  aFct: function() {
+  aFct: function() 
     console.log('Hello World');
   }
 };
